@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/young-manager.iml" filepath="$PROJECT_DIR$/young-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dao/young-manager-dao.iml" filepath="$PROJECT_DIR$/dao/young-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/young-manager-interface.iml" filepath="$PROJECT_DIR$/interface/young-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pojo/young-manager-pojo.iml" filepath="$PROJECT_DIR$/pojo/young-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/young-manager-service.iml" filepath="$PROJECT_DIR$/service/young-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/young-manager-web.iml" filepath="$PROJECT_DIR$/web/young-manager-web.iml" />
+    </modules>
+  </component>
+</project>
